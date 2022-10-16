@@ -9,6 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeVentDemo", "LeVentDemo\Le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CulDeSacApi", "CulDeSacApi\CulDeSacApi.csproj", "{9959F5DA-68C4-42D1-8658-1FD0D501645C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CulDeSacDemoApi", "CulDeSacDemoApi", "{00CBA349-95BE-4874-A648-6C86F1165445}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CulDeSacApi", "CulDeSacDemoApi\CulDeSacApi\CulDeSacApi.csproj", "{5A50677A-828C-4FC2-B3B7-F666153E6CA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CulDeSacApi.Tests.Unit", "CulDeSacDemoApi\CulDeSacApi.Tests.Unit\CulDeSacApi.Tests.Unit.csproj", "{62D6FE52-3ED2-4A82-AC52-0A7331A12292}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +36,17 @@ Global
 		{9959F5DA-68C4-42D1-8658-1FD0D501645C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9959F5DA-68C4-42D1-8658-1FD0D501645C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9959F5DA-68C4-42D1-8658-1FD0D501645C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A50677A-828C-4FC2-B3B7-F666153E6CA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A50677A-828C-4FC2-B3B7-F666153E6CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A50677A-828C-4FC2-B3B7-F666153E6CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A50677A-828C-4FC2-B3B7-F666153E6CA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62D6FE52-3ED2-4A82-AC52-0A7331A12292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D6FE52-3ED2-4A82-AC52-0A7331A12292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D6FE52-3ED2-4A82-AC52-0A7331A12292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D6FE52-3ED2-4A82-AC52-0A7331A12292}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5A50677A-828C-4FC2-B3B7-F666153E6CA5} = {00CBA349-95BE-4874-A648-6C86F1165445}
+		{62D6FE52-3ED2-4A82-AC52-0A7331A12292} = {00CBA349-95BE-4874-A648-6C86F1165445}
 	EndGlobalSection
 EndGlobal
