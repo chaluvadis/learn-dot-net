@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialFunctions", "Partial
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeVentDemo", "LeVentDemo\LeVentDemo.csproj", "{195650AA-7420-428F-8D90-EB2D46BD53D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CulDeSacApi", "CulDeSacApi\CulDeSacApi.csproj", "{9959F5DA-68C4-42D1-8658-1FD0D501645C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{195650AA-7420-428F-8D90-EB2D46BD53D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{195650AA-7420-428F-8D90-EB2D46BD53D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{195650AA-7420-428F-8D90-EB2D46BD53D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9959F5DA-68C4-42D1-8658-1FD0D501645C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9959F5DA-68C4-42D1-8658-1FD0D501645C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9959F5DA-68C4-42D1-8658-1FD0D501645C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9959F5DA-68C4-42D1-8658-1FD0D501645C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
