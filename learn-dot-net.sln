@@ -5,8 +5,6 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialFunctions", "PartialFunctions\PartialFunctions.csproj", "{4D730EBE-8B1C-4435-8B26-AA92706D305B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeVentDemo", "LeVentDemo\LeVentDemo.csproj", "{195650AA-7420-428F-8D90-EB2D46BD53D1}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CulDeSacApi", "CulDeSacApi\CulDeSacApi.csproj", "{9959F5DA-68C4-42D1-8658-1FD0D501645C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CulDeSacDemoApi", "CulDeSacDemoApi", "{00CBA349-95BE-4874-A648-6C86F1165445}"
