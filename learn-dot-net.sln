@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialFunctions", "Partial
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlankPdf", "BlankPdf\BlankPdf.csproj", "{38001E66-C2EE-4021-983C-4CB5B036C7A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordsDemo", "RecordsDemo\RecordsDemo.csproj", "{28EDE646-C8F9-4CE8-B7D4-4E42A95882F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,6 +50,10 @@ Global
 		{38001E66-C2EE-4021-983C-4CB5B036C7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38001E66-C2EE-4021-983C-4CB5B036C7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38001E66-C2EE-4021-983C-4CB5B036C7A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28EDE646-C8F9-4CE8-B7D4-4E42A95882F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28EDE646-C8F9-4CE8-B7D4-4E42A95882F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28EDE646-C8F9-4CE8-B7D4-4E42A95882F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28EDE646-C8F9-4CE8-B7D4-4E42A95882F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{5A50677A-828C-4FC2-B3B7-F666153E6CA5} = {00CBA349-95BE-4874-A648-6C86F1165445}
