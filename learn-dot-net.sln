@@ -5,18 +5,6 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialFunctions", "PartialFunctions\PartialFunctions.csproj", "{4D730EBE-8B1C-4435-8B26-AA92706D305B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CulDeSacApi", "CulDeSacApi\CulDeSacApi.csproj", "{9959F5DA-68C4-42D1-8658-1FD0D501645C}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CulDeSacDemoApi", "CulDeSacDemoApi", "{00CBA349-95BE-4874-A648-6C86F1165445}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CulDeSacApi", "CulDeSacDemoApi\CulDeSacApi\CulDeSacApi.csproj", "{5A50677A-828C-4FC2-B3B7-F666153E6CA5}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CulDeSacApi.Tests.Unit", "CulDeSacDemoApi\CulDeSacApi.Tests.Unit\CulDeSacApi.Tests.Unit.csproj", "{62D6FE52-3ED2-4A82-AC52-0A7331A12292}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThrottlingDemo", "ThrottlingDemo\ThrottlingDemo.csproj", "{3C60B4EC-5997-40F3-A84F-342ED5421EB5}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadPdfDemo", "ReadPdfDemo\ReadPdfDemo.csproj", "{2A3448B7-7936-4FF5-BC84-6FE6FB035533}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlankPdf", "BlankPdf\BlankPdf.csproj", "{38001E66-C2EE-4021-983C-4CB5B036C7A9}"
 EndProject
 Global
